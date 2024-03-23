@@ -1,0 +1,22 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+}
+*/ .black {
+  background-color: black;
+}
+
+.newGridButton {
+}
